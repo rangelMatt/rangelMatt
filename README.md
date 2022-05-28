@@ -10,8 +10,6 @@
 
 <h2 align="center">🤘Welcome to my GitHub!🤘 <img src=""></h2>
 
-<!-- https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px -->
-
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=rangelMatt.rangelMatt" width="110px">
 </p>
