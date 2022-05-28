@@ -15,6 +15,19 @@
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=rangelMatt.rangelMatt" width="110px">
 </p>
+
+---------------------
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rangelMatt&layout=compact&theme=midnight-purple&card_width=800&langs_count=10)](https://github.com/HexxKing/github-readme-stats)
+
+---------------------
+
+<a href="https://github.com/rangelMatt/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rangelMatt&show_icons=true&theme=midnight-purple" />
+</a>
+
+---------------------
+
 <!--
 **rangelMatt/rangelMatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
