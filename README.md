@@ -20,10 +20,10 @@
 
 ---------------------
 
-- ### **Organizations I Belong To**
+### **Organizations I Belong To**
 
-  - [Code Fellows Alumni](https://www.linkedin.com/school/code-fellows/people/)
-  - [Code Newbie](https://www.codenewbie.org/)
+- [Code Fellows Alumni](https://www.linkedin.com/school/code-fellows/people/)
+- [Code Newbie](https://www.codenewbie.org/)
 
 ---------------------
 
