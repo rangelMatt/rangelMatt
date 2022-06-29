@@ -20,11 +20,26 @@
 
 ---------------------
 
+<h3> What I'm Studying</h3>
+
+- [LeetCode : Data Structures](https://leetcode.com/rangelMatt/)
+- [Sololearn](https://www.sololearn.com/profile/25311355)
+- [Learn C The Hard Way(Offline)](https://learncodethehardway.org/c/)
+
+---------------------
+
 <a href="https://github.com/rangelMatt/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rangelMatt&show_icons=true&theme=midnight-purple" />
 </a>
 
 ---------------------
+<h3>📻 My Go to Coding Playlists</h3>
+
+  - [FxF=E (Focus X Faith = Effort)](https://open.spotify.com/playlist/0kyldDeWZ7KDCoM74eiaIM?si=d6084a4c949d499a)
+  - [The Hard Thing About HardThings](https://open.spotify.com/playlist/7niXfDop7ANDPWCEes7qp9?si=5b3be2c1cbca4fdc)
+  - [lofi hip hop music - beats to relax/study to](https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=6c21dcd234ad44c0)
+  - [Metal Essentials](https://open.spotify.com/playlist/37i9dQZF1DWWOaP4H0w5b0?si=cff9c46b446c489a)
+  - [Brain Food](https://open.spotify.com/playlist/37i9dQZF1DWXLeA8Omikj7?si=9e645b5d16dc4ac9)
 
 <!--
 **rangelMatt/rangelMatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
