@@ -20,6 +20,13 @@
 
 ---------------------
 
+- ### **Organizations I Belong To**
+
+  - [Code Fellows Alumni](https://www.linkedin.com/school/code-fellows/people/)
+  - [Code Newbie](https://www.codenewbie.org/)
+
+---------------------
+
 <h3> What I'm Studying</h3>
 
 - [LeetCode : Data Structures](https://leetcode.com/rangelMatt/)
