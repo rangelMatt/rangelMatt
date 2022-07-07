@@ -1,4 +1,4 @@
-![header img here](./images/header1.png)
+![header img here](./images/header-dev.png)
 
 <p align="center">
 <!-- I have a theory that GitHub does not support the ability to open a link in a new tab. I could only find evidence that it is not possible. -->
@@ -17,6 +17,14 @@
 ---------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rangelMatt&layout=compact&theme=midnight-purple&card_width=800&langs_count=10)](https://github.com/HexxKing/github-readme-stats)
+
+---------------------
+
+### 🔭 **I’m currently working on ...**
+
+- Todo app: [Java Full Stack with Springboot and Angular](https://github.com/rangelMatt/todo)
+  <!-- - Frontend
+  - Backend -->
 
 ---------------------
 
