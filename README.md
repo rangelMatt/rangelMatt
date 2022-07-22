@@ -40,6 +40,7 @@
 - [LeetCode : Data Structures](https://leetcode.com/rangelMatt/)
 - [Sololearn](https://www.sololearn.com/profile/25311355)
 - [Learn C The Hard Way(Offline)](https://learncodethehardway.org/c/)
+- [Data Structures and Algorithms Exercises](https://github.com/rangelMatt/dsa-exercises/blob/main/README.md)
 
 ---------------------
 
