@@ -23,6 +23,7 @@
 ### 🔭 **I’m currently working on ...**
 
 - Todo app: [Java Full Stack with Springboot and Angular](https://github.com/rangelMatt/todo)
+- [Data Structures and Algorithms Exercises](https://github.com/rangelMatt/dsa-exercises/blob/main/README.md)
   <!-- - Frontend
   - Backend -->
 
@@ -40,7 +41,6 @@
 - [LeetCode : Data Structures](https://leetcode.com/rangelMatt/)
 - [Sololearn](https://www.sololearn.com/profile/25311355)
 - [Learn C The Hard Way(Offline)](https://learncodethehardway.org/c/)
-- [Data Structures and Algorithms Exercises](https://github.com/rangelMatt/dsa-exercises/blob/main/README.md)
 
 ---------------------
 
