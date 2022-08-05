@@ -6,7 +6,7 @@
 <!-- <a href="https://dev.to/hexxking" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/dev.png"></a>&nbsp;&nbsp; -->
 <a href="mailto:mattrangel@gmail.com" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/gmail.png"></a>&nbsp;&nbsp;
 <!-- <a href="https://dev.to/hexxking" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/dev.png"></a>&nbsp;&nbsp; -->
-<a href="ttps://angel.co/u/matt-j-rangel" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/angellist_icon.png"></a>&nbsp;&nbsp;
+<a href="https://angel.co/u/matt-j-rangel" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/angellist_icon.png"></a>&nbsp;&nbsp;
 
 </p>
 
