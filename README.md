@@ -24,7 +24,7 @@
 
 ### 🔭 **I’m currently working on ...**
 
-- Todo app: [Java Full Stack with Springboot and Angular](https://github.com/rangelMatt/todo)
+- [React and Django Full Stack: wep app, backend API](https://github.com/rangelMatt/react_django)
 - [Data Structures and Algorithms Exercises](https://github.com/rangelMatt/dsa-exercises/blob/main/README.md)
   <!-- - Frontend
   - Backend -->
