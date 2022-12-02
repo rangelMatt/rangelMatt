@@ -22,8 +22,13 @@
 
 ### 🔭 **I’m currently working on ...**
 
-- Todo app: [Java Full Stack with Springboot and Angular](https://github.com/rangelMatt/todo)
+- [Local Gym Website](https://github.com/rangelMatt/gym-web-app)
+  - Local gym website to showcase equipment and serve as the landing page for gym's online presence.
+  - Owned complete design and build with React, JavaScript, SASS, and HTML/CSS (To Be Deployed).
+- [Movie Rater](https://github.com/rangelMatt/todo)
+  - A web app that has a login and enables the user to create, read, update, and delete movies as well as rank them based on a star scale.
 - [Data Structures and Algorithms Exercises](https://github.com/rangelMatt/dsa-exercises/blob/main/README.md)
+  - Actively building and sharpening my skills practicing data structures and algorithms (DSA): check out it!
   <!-- - Frontend
   - Backend -->
 
