@@ -28,7 +28,7 @@
 - [Movie Rater](https://github.com/rangelMatt/todo)
   - A web app that has a login and enables the user to create, read, update, and delete movies as well as rank them based on a star scale.
 - [Data Structures and Algorithms Exercises](https://github.com/rangelMatt/dsa-exercises/blob/main/README.md)
-  - Actively building and sharpening my skills practicing data structures and algorithms (DSA): check out it!
+  - Actively building and sharpening my skills practicing Data Structures and Algorithms (DSA): check out it!
   <!-- - Frontend
   - Backend -->
 
