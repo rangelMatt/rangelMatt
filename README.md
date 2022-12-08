@@ -22,7 +22,7 @@
 
 ### 🔭 **I’m currently working on ...**
 
-- [Local Gym Website](https://github.com/rangelMatt/gym-web-app)
+- [Local Gym Website](https://github.com/rangelMatt/gym-web-app) *Deployed at [centralcoastbarbell.com](centralcoastbarbell.com)*
   - Local gym website to showcase equipment and serve as the landing page for gym's online presence.
   - Owned complete design and build with React, JavaScript, SASS, and HTML/CSS (To Be Deployed).
 - [Movie Rater](https://github.com/rangelMatt/todo)
