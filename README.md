@@ -38,6 +38,7 @@
 
 - [Code Fellows Alumni](https://www.linkedin.com/school/code-fellows/people/)
 - [Code Newbie](https://www.codenewbie.org/)
+- [Society of Hispanic Professional Engineers](https://shpe.soe.ucsc.edu/shpe-national)
 
 ---------------------
 
@@ -45,7 +46,18 @@
 
 - [LeetCode : Data Structures](https://leetcode.com/rangelMatt/)
 - [Sololearn](https://www.sololearn.com/profile/25311355)
-- [Learn C The Hard Way(Offline)](https://learncodethehardway.org/c/)
+
+---------------------
+
+<h3> 📚 What I'm Currently "Cluster" Reading</h3>
+
+<h5>(I enjoy 'Cluster' Reading because one can grab some similarities from different points of views. Conversely, one can use the dissimilarities to promote critical thinking and come out with creative solutions)</h5>
+
+- [Brain-Body Parenting by Mona Delahooke](https://monadelahooke.com/brain-body-parenting/)
+- [Data Structures and Algorithms by Jay Wengrow](https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second-dp-1680507222/dp/1680507222/ref=dp_ob_title_bk5)
+- [Endure By Cameron Hanes](https://www.enduretour.com/)
+- [The Hard Things about Hard Things By Ben Horowitz](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
+- [Never Finished by David Goggins (Audio Book)](https://davidgoggins.com/)
 
 ---------------------
 
