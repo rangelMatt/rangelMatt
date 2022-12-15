@@ -51,6 +51,8 @@
 
 <h3> 📚 What I'm Currently "Cluster" Reading</h3>
 
+<h5>(I enjoy 'Cluster' Reading because one can grab some similarities from different points of views. Conversely, one can use the dissimilarities to promote critical thinking and come out with creative solutions)</h5>
+
 - [Brain-Body Parenting by Mona Delahooke](https://monadelahooke.com/brain-body-parenting/)
 - [Data Structures and Algorithms by Jay Wengrow](https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second-dp-1680507222/dp/1680507222/ref=dp_ob_title_bk5)
 - [Endure By Cameron Hanes](https://www.enduretour.com/)
