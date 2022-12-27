@@ -55,7 +55,6 @@
 
 - [Brain-Body Parenting by Mona Delahooke](https://monadelahooke.com/brain-body-parenting/)
 - [Data Structures and Algorithms by Jay Wengrow](https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second-dp-1680507222/dp/1680507222/ref=dp_ob_title_bk5)
-- [Endure By Cameron Hanes](https://www.enduretour.com/)
 - [The Hard Things about Hard Things By Ben Horowitz](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
 - [Never Finished by David Goggins (Audio Book)](https://davidgoggins.com/)
 
