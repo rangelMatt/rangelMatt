@@ -22,9 +22,9 @@
 
 ### 🔭 **I’m currently working on ...**
 
-- [Local Gym Website](https://github.com/rangelMatt/gym-web-app) *Deployed at [centralcoastbarbell.com](centralcoastbarbell.com)*
+- [Local Gym Website](https://github.com/rangelMatt/gym-web-app) *Deployed at [centralcoastbarbell.com](https://centralcoastbarbell.com)*
   - Local gym website to showcase equipment and serve as the landing page for gym's online presence.
-  - Owned complete design and build with React, JavaScript, SASS, and HTML/CSS (To Be Deployed).
+  - Owned complete design and build with React, JavaScript, SASS, and HTML/CSS.
 - [Movie Rater](https://github.com/rangelMatt/todo)
   - A web app that has a login and enables the user to create, read, update, and delete movies as well as rank them based on a star scale.
 - [Data Structures and Algorithms Exercises](https://github.com/rangelMatt/dsa-exercises/blob/main/README.md)
@@ -38,6 +38,7 @@
 
 - [Code Fellows Alumni](https://www.linkedin.com/school/code-fellows/people/)
 - [Code Newbie](https://www.codenewbie.org/)
+- [Society of Hispanic Professional Engineers](https://shpe.soe.ucsc.edu/shpe-national)
 
 ---------------------
 
@@ -45,7 +46,17 @@
 
 - [LeetCode : Data Structures](https://leetcode.com/rangelMatt/)
 - [Sololearn](https://www.sololearn.com/profile/25311355)
-- [Learn C The Hard Way(Offline)](https://learncodethehardway.org/c/)
+
+---------------------
+
+<h3> 📚 What I'm Currently "Cluster" Reading</h3>
+
+<h5>(I enjoy 'Cluster' Reading because one can grab some similarities from different points of views. Conversely, one can use the dissimilarities to promote critical thinking and come out with creative solutions)</h5>
+
+- [Brain-Body Parenting by Mona Delahooke](https://monadelahooke.com/brain-body-parenting/)
+- [Data Structures and Algorithms by Jay Wengrow](https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second-dp-1680507222/dp/1680507222/ref=dp_ob_title_bk5)
+- [The Hard Things about Hard Things By Ben Horowitz](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
+- [Never Finished by David Goggins (Audio Book)](https://davidgoggins.com/)
 
 ---------------------
 
