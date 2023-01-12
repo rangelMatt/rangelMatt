@@ -60,11 +60,7 @@
 
 ---------------------
 
-![Matt's GitHub stats](https://github-readme-masterstaa-rickstaa.vercel.app/api?username=rangelMatt&show_icons=true&theme=transparent)
-
-<a href="https://github.com/rangelMatt/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rangelMatt&show_icons=true&theme=midnight-purple" />
-</a>
+![Matt's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rangelMatt&show_icons=true&theme=transparent)
 
 ---------------------
 <h3>📻 My Go to Coding Playlists</h3>
