@@ -16,7 +16,7 @@
 
 ---------------------
 
-[![Matt's Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rangelMatt&layout=compact&theme=transparent&card_width=800&langs_count=10)]
+![Matt's Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rangelMatt&layout=compact&theme=transparent&card_width=800&langs_count=10)
 
 ---------------------
 
