@@ -44,6 +44,7 @@
 
 <h3> What I'm Studying</h3>
 
+- [Software Development Reading Notes](https://rangelmatt.github.io/reading-notes/)
 - [LeetCode : Data Structures](https://leetcode.com/rangelMatt/)
 - [Sololearn](https://www.sololearn.com/profile/25311355)
 
