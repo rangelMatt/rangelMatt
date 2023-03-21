@@ -14,25 +14,25 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=rangelMatt.rangelMatt" width="110px">
 </p>
 
----------------------
+---
 
 ![Matt's Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rangelMatt&layout=compact&theme=transparent&card_width=800&langs_count=10)
 
----------------------
+---
 
 ### 🔭 **I’m currently working on ...**
 
-- [Local Gym Website](https://github.com/rangelMatt/gym-web-app) *Deployed at [centralcoastbarbell.com](https://centralcoastbarbell.com)*
+- [Weather App](https://github.com/rangelMatt/weather-nextjs)
+  - A Weather app that makes an API call to [openweathermap.org](https://openweathermap.org/current#zip) using Nextjs and Tailwind.
+- [Local Gym Website](https://github.com/rangelMatt/gym-web-app) _Deployed at [centralcoastbarbell.com](https://centralcoastbarbell.com)_
   - Local gym website to showcase equipment and serve as the landing page for gym's online presence.
   - Owned complete design and build with React, JavaScript, SASS, and HTML/CSS.
-- [Movie Rater](https://github.com/rangelMatt/todo)
-  - A web app that has a login and enables the user to create, read, update, and delete movies as well as rank them based on a star scale.
 - [Data Structures and Algorithms Exercises](https://github.com/rangelMatt/dsa-exercises/blob/main/README.md)
   - Actively building and sharpening my skills practicing Data Structures and Algorithms (DSA): check out it!
   <!-- - Frontend
   - Backend -->
 
----------------------
+---
 
 ### **Organizations I Belong To**
 
@@ -40,7 +40,7 @@
 - [Code Newbie](https://www.codenewbie.org/)
 - [Society of Hispanic Professional Engineers](https://shpe.soe.ucsc.edu/shpe-national)
 
----------------------
+---
 
 <h3> What I'm Studying</h3>
 
@@ -48,7 +48,7 @@
 - [LeetCode : Data Structures](https://leetcode.com/rangelMatt/)
 - [Sololearn](https://www.sololearn.com/profile/25311355)
 
----------------------
+---
 
 <h3> 📚 What I'm Currently "Cluster" Reading</h3>
 
@@ -59,18 +59,19 @@
 - [The Hard Things about Hard Things By Ben Horowitz](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
 - [Never Finished by David Goggins (Audio Book)](https://davidgoggins.com/)
 
----------------------
+---
 
 ![Matt's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rangelMatt&show_icons=true&theme=transparent)
 
----------------------
+---
+
 <h3>📻 My Go to Coding Playlists</h3>
 
-  - [FxF=E (Focus X Faith = Effort)](https://open.spotify.com/playlist/0kyldDeWZ7KDCoM74eiaIM?si=d6084a4c949d499a)
-  - [The Hard Thing About HardThings](https://open.spotify.com/playlist/7niXfDop7ANDPWCEes7qp9?si=5b3be2c1cbca4fdc)
-  - [lofi hip hop music - beats to relax/study to](https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=6c21dcd234ad44c0)
-  - [Metal Essentials](https://open.spotify.com/playlist/37i9dQZF1DWWOaP4H0w5b0?si=cff9c46b446c489a)
-  - [Brain Food](https://open.spotify.com/playlist/37i9dQZF1DWXLeA8Omikj7?si=9e645b5d16dc4ac9)
+- [FxF=E (Focus X Faith = Effort)](https://open.spotify.com/playlist/0kyldDeWZ7KDCoM74eiaIM?si=d6084a4c949d499a)
+- [The Hard Thing About HardThings](https://open.spotify.com/playlist/7niXfDop7ANDPWCEes7qp9?si=5b3be2c1cbca4fdc)
+- [lofi hip hop music - beats to relax/study to](https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=6c21dcd234ad44c0)
+- [Metal Essentials](https://open.spotify.com/playlist/37i9dQZF1DWWOaP4H0w5b0?si=cff9c46b446c489a)
+- [Brain Food](https://open.spotify.com/playlist/37i9dQZF1DWXLeA8Omikj7?si=9e645b5d16dc4ac9)
 
 <!--
 **rangelMatt/rangelMatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
