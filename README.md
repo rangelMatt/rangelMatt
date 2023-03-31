@@ -22,9 +22,13 @@
 
 ### 🔭 **I’m currently working on ...**
 
+- [Netflix Clone App](https://github.com/rangelMatt/web-movie)
+  - A Netflix Clone App that allows users to register, login, preview movies, and save to favorites.
+  - Built with React, Tailwind CSS, Next.JS, Prisma, MongoDB, NextAuth & Vercel.
 - [Weather App](https://github.com/rangelMatt/weather-nextjs)
-  - A Weather app that makes an API call to [openweathermap.org](https://openweathermap.org/current#zip) using Nextjs and Tailwind.
-- [Local Gym Website](https://github.com/rangelMatt/gym-web-app) _Deployed at [centralcoastbarbell.com](https://centralcoastbarbell.com)_
+  - A Weather App that allows users to enter the name of a city and retrieves real-time weather data using an API [openweathermap.org](https://openweathermap.org/current#zip)
+  - Built and designed with Next.JS, Tailwind, OpenWeatherMap API, and deployed with Vercel.
+- [Local Gym Website](https://github.com/rangelMatt/ccb-app) _Deployed at [centralcoastbarbell.com](https://centralcoastbarbell.com)_
   - Local gym website to showcase equipment and serve as the landing page for gym's online presence.
   - Owned complete design and build with React, JavaScript, SASS, and HTML/CSS.
 - [Data Structures and Algorithms Exercises](https://github.com/rangelMatt/dsa-exercises/blob/main/README.md)
