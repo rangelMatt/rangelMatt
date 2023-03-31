@@ -22,10 +22,10 @@
 
 ### 🔭 **I’m currently working on ...**
 
-- [Netflix Clone App](https://github.com/rangelMatt/web-movie)
+- [Netflix Clone App](https://github.com/rangelMatt/web-movie) (Deployed [HERE](http://webmovie-pivcxxbqd-rangelmatt.vercel.app))
   - A Netflix Clone App that allows users to register, login, preview movies, and save to favorites.
   - Built with React, Tailwind CSS, Next.JS, Prisma, MongoDB, NextAuth & Vercel.
-- [Weather App](https://github.com/rangelMatt/weather-nextjs)
+- [Weather App](https://github.com/rangelMatt/weather-nextjs)(Deployed [HERE](http://weather-nextjs-sand.vercel.app))
   - A Weather App that allows users to enter the name of a city and retrieves real-time weather data using an API [openweathermap.org](https://openweathermap.org/current#zip)
   - Built and designed with Next.JS, Tailwind, OpenWeatherMap API, and deployed with Vercel.
 - [Local Gym Website](https://github.com/rangelMatt/ccb-app) _Deployed at [centralcoastbarbell.com](https://centralcoastbarbell.com)_
