@@ -77,6 +77,17 @@
 - [Metal Essentials](https://open.spotify.com/playlist/37i9dQZF1DWWOaP4H0w5b0?si=cff9c46b446c489a)
 - [Brain Food](https://open.spotify.com/playlist/37i9dQZF1DWXLeA8Omikj7?si=9e645b5d16dc4ac9)
 
+<footer>
+<h3>📚 Resources Used to Build This Repo:</h3>
+
+- Header from <a href="https://www.canva.com/">Canva</a>
+- Social media favicons from <a href="https://icons8.com">Icons8</a>
+- <a href="https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7">Build a Stunning README For Your GitHub Profile</a>
+- <a href="https://sarah-hart-landolt.medium.com/6-easy-steps-to-create-a-beautiful-github-profile-readme-edc7840b2c7">6 Easy Steps to Create a Beautiful GitHub Profile README</a>
+- <a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-profile">Setting up and managing your GitHub profile
+</a>
+</footer>
+
 <!--
 **rangelMatt/rangelMatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
