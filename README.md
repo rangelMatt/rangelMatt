@@ -22,6 +22,9 @@
 
 ### 🔭 **I’m currently working on ...**
 
+- [Portfolio App](https://github.com/rangelMatt/mattjrangel) (Deployed [HERE](https://www.mattjrangel.com/))
+  - A Portfolio showcasing what I build and my professional development.
+  - Built with React, Tailwind CSS, Next.JS, Framer Motion, & deployed on Vercel.
 - [Netflix Clone App](https://github.com/rangelMatt/web-movie) (Deployed [HERE](http://webmovie-pivcxxbqd-rangelmatt.vercel.app))
   - A Netflix Clone App that allows users to register, login, preview movies, and save to favorites.
   - Built with React, Tailwind CSS, Next.JS, Prisma, MongoDB, NextAuth & Vercel.
