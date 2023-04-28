@@ -22,6 +22,9 @@
 
 ### 🔭 **I’m currently working on ...**
 
+- [Airbnb App](https://github.com/rangelMatt/airstay) (Deployed [HERE](https://rent-stay-i4canr4wn-rangelmatt.vercel.app/))
+  - Airbnb Clone App that allows to browse and search for different Airbnb listings, create a user account, create Airbnb listings, and book available listings.
+  - Built with React, Tailwind CSS, Next.JS, Prisma, MongoDB, NextAuth & Vercel.
 - [Portfolio App](https://github.com/rangelMatt/mattjrangel) (Deployed [HERE](https://www.mattjrangel.com/))
   - A Portfolio showcasing what I build and my professional development.
   - Built with React, Tailwind CSS, Next.JS, Framer Motion, & deployed on Vercel.
