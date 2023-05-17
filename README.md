@@ -10,9 +10,12 @@
 
 <h2 align="center">🤘Welcome to my GitHub!🤘</h2>
 
-<p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=rangelMatt.rangelMatt" width="110px">
-</p>
+<div align="center">
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=rangelMatt.rangelMatt" width="110px"> -->
+
+[![HitCount](https://hits.dwyl.com/rangelMatt/rangelMatt.svg?style=flat&show=unique)](http://hits.dwyl.com/rangelMatt/rangelMatt)
+
+</div>
 
 ---
 
