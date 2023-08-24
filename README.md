@@ -1,4 +1,4 @@
-![header img here](./images/header-dev.png)
+![header img here](./images/header-pm.png)
 
 <p align="center">
 <!-- I have a theory that GitHub does not support the ability to open a link in a new tab. I could only find evidence that it is not possible. -->
@@ -6,6 +6,7 @@
 <!-- <a href="https://dev.to/hexxking" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/dev.png"></a>&nbsp;&nbsp; -->
 <a href="mailto:mattrangel@gmail.com" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/gmail.png"></a>&nbsp;&nbsp;
 <!-- <a href="https://dev.to/hexxking" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/dev.png"></a>&nbsp;&nbsp; -->
+<a href="https://www.mattjrangel.com/" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/portfolio.png"></a>&nbsp;&nbsp;
 </p>
 
 <h2 align="center">🤘Welcome to my GitHub!🤘</h2>
